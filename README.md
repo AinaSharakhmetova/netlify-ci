@@ -1,0 +1,1 @@
+https://github.com/AinaSharakhmetova/netlify-ci.git
